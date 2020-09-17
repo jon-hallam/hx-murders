@@ -1,0 +1,12 @@
+---
+title: "First Attempt"
+author: "JRH"
+date: "9/17/2020"
+output: html_document
+---
+
+```{r, echo=F}
+n <- 32
+```
+
+Here 'r n' cars are compared 
